@@ -35,9 +35,15 @@ https://drive.google.com/file/d/1njL0YFj34GAOioRTAePQ9fOrkPz9o4fM/view?usp=shari
 
 ## 🌐 Deployment
 Currently runs locally (Unity + Python integration).
-
 Project developed in 2024 as part of academic work.
 Uploaded to GitHub in 2026 for portfolio purposes.
+
+## 🎮 Unity Game Component
+The Unity game was developed as part of this project to generate gameplay data.
+Due to file size limitations, the full Unity project is not included. However, gameplay screenshots and demo video demonstrate its functionality.
+
+## 🔗 Project Architecture
+Unity Game → Data Collection → Python Processing → Data Visualization
 
 ## 👩‍💻 Author
 Prerana Sawant
